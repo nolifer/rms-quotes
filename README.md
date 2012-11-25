@@ -1,4 +1,4 @@
 rms-quotes
 ==========
 
-random quotes from Stallman
+Simple app written in Perl that shows random quotes from Stallman.
